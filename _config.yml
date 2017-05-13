@@ -1,3 +1,2 @@
-baseurl:/blog
-
+baseurl: /blog
 theme: jekyll-theme-minimal
